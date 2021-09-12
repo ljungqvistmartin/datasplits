@@ -8,5 +8,5 @@ valid.txt           16,000 images
 
 test.txt            16,000 images
 
-Original dataset repository:
+Official dataset repository:
 https://github.com/bdd100k/bdd100k
